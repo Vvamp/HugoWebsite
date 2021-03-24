@@ -1,6 +1,6 @@
 baseURL = "https://vincentvansetten.com"
 languageCode = "en-us"
-title = "Vincent van Setten"
+title = "Vincent van Setten - Student Developer"
 theme = "coder"
 
 languagecode = "en"
@@ -17,7 +17,7 @@ pygmentscodefencesguesssyntax = true
 [params]
   author = "Vincent van Setten"
   info = "Student Developer & Linux Enthusiast"
-  description = "Vincent van Setten's personal portfolio website"
+  description = "Vincent van Setten - A Student Developer & Linux Enthusiast. Check me out on LinkedIn and GitHub!"
   keywords = "blog,developer,personal,student,linux"
   avatarurl = "images/avatar.jpg"
   #gravatar = "vvampus@gmail.com"
@@ -85,6 +85,7 @@ pygmentscodefencesguesssyntax = true
   name = "Contact"
   weight = 5
   url  = "contact/"
+
 [markup.goldmark.renderer]
 unsafe = true
 [blackfriday]
